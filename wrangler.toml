@@ -3,7 +3,7 @@ main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
 
-account_id = "4dd02089951b04b51647ab7a49434116"
+account_id = "30c69956def3ff7a8022463c53a2abc6"
 workers_dev = true
 
 [[kv_namespaces]]
